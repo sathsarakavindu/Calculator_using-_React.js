@@ -1,0 +1,211 @@
+
+.txt{
+    position: absolute;
+    left: 332px;
+    top: 50px;   
+    text-align: right;
+    width: 320px;
+    height: 50px;
+    font-size:40px;
+    background-color: rgb(182, 245, 245);
+}
+
+.outline{
+    border: 10px solid black;
+}
+
+#ans_txt{
+
+    background-color:rgb(191, 246, 109);
+    height : 30px;
+    width: 320px;
+    position: absolute;
+    left: 334px;
+    top: 80px;
+  }
+
+  #c{
+     background-color:red;
+     color:white;
+     width: 70px;
+     font-size: 30px;
+     font-weight: bold;
+     border-radius: 6px;
+     position: absolute;
+     left: 334px;
+     top: 130px;
+  }
+  #divide{
+      color: white;
+      background-color: rgb(7, 89, 230);
+      font-weight:bold;
+      font-size: 30px;
+      width: 70px;
+      height: 40px;
+      border-radius: 6px;
+      position: absolute;
+      left: 417px;
+      top: 130px;
+  }
+  #multi{
+      background-color:rgb(7, 89, 230);
+      color: white;
+      font-weight:bold;
+      border-radius:6px;
+      font-size: 30px;
+      width: 70px;
+      height: 40px;
+      position: absolute;
+      left: 505px;
+      top: 130px;
+  }
+  #sum{
+    background-color:rgb(7, 89, 230);
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    width: 70px;
+    height: 40px;
+    position: absolute;
+    left: 590px;
+    top: 130px;
+  }
+  #sub{
+    background-color: rgb(7, 89, 230);
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 6px;
+    position: absolute;
+    left: 590px;
+    top:185px;
+  }
+
+  #nine{
+    background-color: rgb(71, 248, 74);
+    color: black;
+    font-size: 30px;
+    font-weight:bold;
+    border-radius: 6px;
+    width:70px;
+    height: 40px;
+    position: absolute;
+    left: 334px;
+    top: 185px;
+  }
+  #eight{
+      background-color: rgb(71, 248, 74);
+      color: black;
+      font-weight:bold;
+      font-size: 30px;
+      border-radius:6px;
+      width:70px;
+      height: 40px;
+      position: absolute;
+      left: 416px;
+      top: 185px;
+  }
+  #seven{
+      background-color: rgb(71, 248, 74);
+      color: black;
+      font-weight:bold;
+      font-size: 30px;
+      border-radius:6px;
+      width:70px;
+      height: 40px;
+      position: absolute;
+      left: 505px;
+      top: 185px;
+  }
+
+  #six{
+     background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 335px;
+      top: 240px;
+  }
+  #five{
+      background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 415px;
+     top: 240px;
+  }
+  #four{
+      background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 505px;
+     top: 240px;
+  }
+  #three{
+      background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 335px;
+     top: 295px;
+  }
+  #two{
+      background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 415px;
+     top: 295px;
+  }
+  #one{
+      background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 505px;
+     top: 295px;
+  }
+  #zero{
+      background-color:rgb(71, 248, 74);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 590px;
+     top: 295px;
+  }
+  #equal{
+      background-color:rgb(222, 246, 7);
+     font-weight:bold;
+     font-size:30px;
+     width:70px;
+     height:40px;
+     border-radius:6px;
+     position:absolute;
+     left: 590px;
+     top: 241px;
+  }
